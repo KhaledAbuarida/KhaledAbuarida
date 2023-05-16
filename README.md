@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu3rida&label=Profile%20views&color=0e75b6&style=flat" alt="abu3rida" /> </p>
 
-- 📝 I regularly write articles on [abu3rida.blogspot.com](abu3rida.blogspot.com)
-
 - 💬 Ask me about *React, Bootstrap, tailwind css*
 
 - 📫 How to reach me *khaledabuarida0@gmail.com*
@@ -13,7 +11,7 @@
 
 - ⚡ Fun fact *Really hate spaces, love tabs*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledAbuarida&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledAbuarida&show_icons=true&theme=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
