@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *khaledabuarida0@gmail.com*
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/khaled-abuarida-487295213](https://www.linkedin.com/in/khaled-abuarida-487295213)
+- 📄 Know about my experiences https://www.linkedin.com/in/khaledabuarida/
 
 - ⚡ Fun fact *Really hate spaces, love tabs*
 
