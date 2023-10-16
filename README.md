@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Abuarida</h1>
-<h3 align="center">Computer science student | Frontend developer</h3>
+<h3 align="center">Computer science | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu3rida&label=Profile%20views&color=0e75b6&style=flat" alt="abu3rida" /> </p>
 
