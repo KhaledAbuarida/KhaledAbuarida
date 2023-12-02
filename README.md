@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu3rida&label=Profile%20views&color=0e75b6&style=flat" alt="abu3rida" /> </p>
 
-- 💬 Ask me about *React, Bootstrap, tailwind css*
-
 - 📫 How to reach me *khaledabuarida0@gmail.com*
 
 - 📄 Know about my experiences https://www.linkedin.com/in/khaledabuarida/
