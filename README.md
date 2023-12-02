@@ -26,5 +26,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledAbuarida&layout=compact)](https://github.com/KhaledAbuarida/github-readme-stats)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/KhaledAbuarida"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KhaledAbuarida" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Abu3rida"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KhaledAbuarida" /></a></p><br><br>
 
